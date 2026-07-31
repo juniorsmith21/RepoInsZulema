@@ -7,6 +7,6 @@ data class pokemon(
 )
 
 data class  PokemonListResponse(
-    val  result: List <pokemon>
+    val  results: List <pokemon>
 
 )
